@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **maximilianwinter167@gmail.com**
 
-- ⚡ Fun fact **I love anime and manga!**
+- ⚡ Fun fact: **I love anime and manga!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
