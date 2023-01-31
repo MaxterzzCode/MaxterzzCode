@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **C#, CSS, HTML and Unity.**
 
-- 📫 How to reach me **maximilianwinter167@gmail.com**
+- 📫 How to reach me: **maximilianwinter167@gmail.com**
 
-- ⚡ Fun fact: **I love anime and manga!**
+- ⚡ Fun fact: **I am interested in all things Anime!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
