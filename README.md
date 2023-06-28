@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/maxterzz" target="blank"><img src="https://img.shields.io/twitter/follow/maxterzz?logo=twitter&style=for-the-badge" alt="maxterzz" /></a> </p>
 
-- 🌱 I’m currently learning **C#, CSS, HTML and Unity.**
+- 🌱 I’m currently learning **C#, Java and Assembly x86**
 
 - 📫 How to reach me: **maximilianwinter167@gmail.com**
 
